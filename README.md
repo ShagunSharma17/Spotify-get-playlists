@@ -1,4 +1,11 @@
 #Spotify Playlist Fetcher with Flask
+
+
+
+
+
+
+
 This is a simple Flask web application that integrates with the Spotify Web API to fetch and display a user's playlists. The app allows users to authenticate with their Spotify account via OAuth2, and once authenticated, it fetches and displays the playlists associated with their account.
 Features
 Spotify Authentication: Users are redirected to the Spotify authorization page to grant access to their Spotify account using OAuth2 authentication.
